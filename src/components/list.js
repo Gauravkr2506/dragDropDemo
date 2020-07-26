@@ -44,6 +44,7 @@ export default class ListComponent extends Component {
           >
             <IoMdMove
               onMouseDown={this.props.onMouseDown}
+              touchstart={this.props.onMouseDown}
               // onMouseUp={this.props.onMouseUp}
               className="icon"
               title="move"
