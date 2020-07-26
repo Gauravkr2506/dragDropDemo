@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.input {
+  background-color: #d6ebff;
+  border-color: azure;
+}
+
+.icon:hover {
+  color: #4d4dff;
+}
+
+.span {
+  font-size: x-small;
+  font-weight: 700;
+  color:#857979;
+}
